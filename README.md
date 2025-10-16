@@ -18,3 +18,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</de
 - JAVA
 - PHP
 
+1. SQL
+1. JavaScript
+1. SQL
