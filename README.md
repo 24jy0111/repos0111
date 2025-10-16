@@ -21,3 +21,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</de
 1. SQL
 1. JavaScript
 1. SQL
+
+```
+for(int i=0; i<10; i++){
+    int rand = (int)(Math.random()*10);
+    System.out.println("乱数[" + i + "]:" + rand);
+}
+```
